@@ -6,7 +6,7 @@
 ### 참조 링크
   * [W3 School](https://www.w3schools.com/js)
   * [MarkDown 사용법 총정리](https://heropy.blog/2017/09/30/markdown/)
-  * [파이썬 문법](https://wikidocs.net/book/1)
+  * [점프 투 파이썬](https://wikidocs.net/book/1)
   
  ### 소스 코드
 | 파일명 | code(.html) | 설명 |
