@@ -1,0 +1,28 @@
+h1 {
+	color:Tomato;
+}
+h3 {
+	color: coral;
+}
+h6 {
+	color:DodgerBlue;
+}
+p {
+	color:red;
+	background-color:powderblue;
+}
+
+#first {
+	color: lavender;
+	background-color: palegreen;
+}
+
+#second {
+	color: pink;
+	background-color: palegreen;
+}
+
+#third {
+	color: olive;
+	background-color: palegreen;
+}
