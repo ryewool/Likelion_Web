@@ -28,4 +28,4 @@
 |01_20.html |01_20.html | 표 |
 |01_21.html |01_21.html | 개인정보 입력 |
 
-![javascript](https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8#/media/%ED%8C%8C%EC%9D%BC:Unofficial_JavaScript_logo_2.svg)
+![javascript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2560px-Unofficial_JavaScript_logo_2.svg.png)
