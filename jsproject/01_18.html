@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p id="demo"></p>
+<p id="demo2"></p>
+<script>
+  var cars = ["BMW", "Volvo", "Saab", "Ford", "Fiat", "Audi"];
+  var text = "";
+  var i;
+  for (i=0; i<cars.length; i++) {
+    text += cars[i] + "<br>";
+    console.log(text);
+  }
+  document.getElementById("demo").innerHTML = text;
+
+var electronicCars = ["ionic", "Ray", "Tesla"];
+  var text1 = "";
+  var j;
+  for (j=0; j<electronicCars.length; j++) {
+    text1 += electronicCars[j] + "<br>";
+    console.log(text1);
+  }
+  document.getElementById("demo2").innerHTML = text1;
+
+</script>
+</body>
+</html>
